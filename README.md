@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://L1perz.github.io/ИМЯ_РЕПОЗИТОРИЯ/)
+- [Публичная страница на GitHub Pages](https://l1perz.github.io/my-awesome-project-git/)
